@@ -15,3 +15,9 @@ print(text.lower())
 
 text="ALGONEX IT SOLUTIONS"
 print(text.lower())
+
+#replace()
+#Replaces one word with another.
+
+text="savvani venkata jaswanth"
+print(text.replace("savvani jaswanth","algonex"))
