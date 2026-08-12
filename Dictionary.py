@@ -16,3 +16,18 @@ employee = {
 
 print(employee["name"])
 print(employee["college"])
+
+
+A={
+    "k1":"v1",
+    "k2":"v2",
+    "k3":"v3",
+    "k4":"v4"
+   
+
+}
+
+print("k3".replace("ganesh"))
+print()
+print("A".__add__K3)
+
